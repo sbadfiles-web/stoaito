@@ -1,0 +1,13 @@
+{
+  "id": "/",
+  "name": "Giongio Gest - Gestionale Giardiniere",
+  "short_name": "Giongio Gest",
+  "description": "Gestionale per giardinieri: clienti, agenda, lavori, incassi e spese.",
+  "lang": "it-IT",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f7f2",
+  "theme_color": "#174d35",
+  "icons": []
+}
